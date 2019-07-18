@@ -1,3 +1,5 @@
 # Diamond Price Predictions
 
-<object data="../data/MDS_Diamond_Price.pdf" width="1000" height="1000" type='application/pdf'/>
+The purpose of this project is to predict diamond price based on the four 'C's (Carat, Color, Clarity & Cut).
+
+Read more [here](diamond_price_pred.pdf)
